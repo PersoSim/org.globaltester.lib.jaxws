@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: GT Lib JAXWS
 Bundle-SymbolicName: org.globaltester.lib.jaxws
 Bundle-Vendor: secunet Security Networks AG
-Bundle-Version: 3.8.2.qualifier
+Bundle-Version: 3.8.3.qualifier
 Bundle-ClassPath: lib/jaxws-rt.jar,
  lib/jaxws-api.jar,
  lib/jaxb-api.jar,
