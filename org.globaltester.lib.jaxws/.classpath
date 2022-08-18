@@ -3,7 +3,6 @@
 	<classpathentry exported="true" kind="lib" path="lib/FastInfoset.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/gmbal-api-only.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/ha-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/javax.annotation-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jaxb-jxc.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jaxb-xjc.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jaxws-tools.jar"/>
