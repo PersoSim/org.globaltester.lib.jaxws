@@ -1,36 +1,39 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
+Automatic-Module-Name: org.globaltester.lib.jaxws
 Bundle-Name: GT Lib JAXWS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-SymbolicName: org.globaltester.lib.jaxws
 Bundle-Vendor: secunet Security Networks AG
+Fragment-Host: system.bundle; extension:=framework
 Bundle-Version: 3.9.0.qualifier
 Bundle-ClassPath: 
- lib/FastInfoset.jar,
- lib/gmbal-api-only.jar,
- lib/ha-api.jar,
- lib/jakarta.activation.jar,
- lib/jakarta.xml.bind-api.jar,
- lib/javax.annotation-api-1.3.2.jar,
- lib/javax.xml.soap-api.jar,
- lib/jaxb-impl.jar,
- lib/jaxb-jxc.jar,
- lib/jaxb-xjc.jar,
- lib/jaxws-api.jar,
- lib/jaxws-rt.jar,
- lib/jaxws-tools.jar,
+ lib/FastInfoset-1.2.3.jar,
+ lib/gmbal-api-only-4.0.3.jar,
+ lib/ha-api-3.1.13.jar,
+ lib/activation-1.1.jar,
+ lib/jakarta.annotation-api-1.3.5.jar,
+ lib/jakarta.jws-api-2.1.0.jar,
+ lib/jakarta.xml.bind-api-2.3.3.jar,
+ lib/jakarta.xml.soap-api-1.4.2.jar,
+ lib/jakarta.xml.ws-api-2.3.3.jar,
+ lib/jaxb-impl-2.3.4.jar,
+ lib/jaxb-jxc-2.3.4.jar,
+ lib/jaxb-xjc-2.3.4.jar,
+ lib/wscompile-2.3.0.jar,
+ lib/jing-20220510.jar,
  lib/jsr181-api.jar,
- lib/management-api.jar,
- lib/mimepull.jar,
- lib/policy.jar,
- lib/resolver.jar,
- lib/saaj-impl.jar,
- lib/stax2-api.jar,
- lib/stax-ex.jar,
- lib/streambuffer.jar,
- lib/woodstox-core-asl.jar,
+ lib/management-api-3.2.3.jar,
+ lib/mimepull-1.9.14.jar,
+ lib/policy-2.7.10.jar,
+ lib/resolver-20050927.jar,
  lib/rngom-201605.jar,
- lib/jing-20220510.jar
+ lib/jaxws-rt-2.3.4.jar,
+ lib/saaj-impl-1.5.3.jar,
+ lib/stax2-api-4.2.1.jar,
+ lib/stax-ex-1.8.3.jar,
+ lib/streambuffer-1.5.10.jar,
+ lib/woodstox-core-6.2.4.jar
 Export-Package: 
  com.ctc.wstx.api,
  com.ctc.wstx.cfg,
