@@ -25,7 +25,7 @@
 	<classpathentry exported="true" kind="lib" path="lib/stax2-api-4.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/stax-ex-1.8.3.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/streambuffer-1.5.10.jar"/>
-	<classpathentry exported="true" kind="lib" path="lib/woodstox-core-6.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/woodstox-core-6.6.2.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jsr181-api.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/resolver-20050927.jar"/>
 	<classpathentry exported="true" kind="lib" path="lib/jakarta.jws-api-2.1.0.jar"/>
