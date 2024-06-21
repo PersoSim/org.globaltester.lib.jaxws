@@ -6,7 +6,7 @@ Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-SymbolicName: org.globaltester.lib.jaxws
 Bundle-Vendor: secunet Security Networks AG
 Fragment-Host: system.bundle; extension:=framework
-Bundle-Version: 3.9.0.qualifier
+Bundle-Version: 3.10.0.qualifier
 Bundle-ClassPath: 
  lib/FastInfoset-1.2.3.jar,
  lib/gmbal-api-only-4.0.3.jar,
